@@ -10,7 +10,6 @@
 
 ```
 3. amwiki -c
-
 ```
 ```
 4. amwiki -s
